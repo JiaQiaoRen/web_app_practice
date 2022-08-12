@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_test"]=self["webpackChunkapp_test"]||[]).push([[607],{607:function(n,r,t){t.r(r),t.d(r,{default:function(){return l}});var e=t(3396);const o={class:"shopping-cart-controller"};function a(n,r,t,a,c,p){return(0,e.wg)(),(0,e.iD)("div",o," shopping-cart-controller ")}var c={name:"ShoppingCartController"},p=t(89);const s=(0,p.Z)(c,[["render",a]]);var l=s}}]);
+//# sourceMappingURL=607.b1a8162e.js.map
